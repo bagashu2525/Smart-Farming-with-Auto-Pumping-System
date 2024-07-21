@@ -1,0 +1,7 @@
+[*] to start the application just type `npm start` on the Terminal
+
+[*] then go to the link
+
+[*] for installing node modules 
+
+[*] type `npm i` in Terminal

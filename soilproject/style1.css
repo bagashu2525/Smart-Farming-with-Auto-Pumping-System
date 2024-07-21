@@ -1,0 +1,59 @@
+/* body{
+    background-color: rgb(177, 255, 169);
+} */
+html {
+    scroll-behavior: smooth;
+}
+#aboutsec , #scopesec, #contactsec{
+    color: rgb(10, 78, 26);
+}
+#contactsec img{
+    height: 600px;
+}
+.about{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.sts{
+    height: 500px;
+    width :500px;
+}
+.about img{
+    height: 500px;
+    width :500px;
+    border-radius: 15px;
+}
+.aboutsec2 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.aboutsec3 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    height: 550px;
+    width: 350px;
+}
+
+.aimg {
+    top: 0;
+    left: 0;
+    height: 250px;
+    width: 350px;
+}
+
+.name {
+    font-size: 30px;
+    font-family: 'Libre Franklin', sans-serif;
+    font-family: 'Rubik', sans-serif;
+    color: black;
+    margin: 10px;
+    margin-left: 0;
+}
